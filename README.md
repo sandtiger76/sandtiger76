@@ -11,6 +11,8 @@ to how infrastructure is designed and operated. I made a deliberate decision to 
 hands-on experience with modern tooling alongside my existing background, and these
 projects are the result.
 
+---
+
 **[→ Engineering Portfolio](https://github.com/sandtiger76/engineering-portfolio)**
 &nbsp;&nbsp;|&nbsp;&nbsp;
 [LinkedIn](https://www.linkedin.com/in/quintin-boshoff-1905033/)
